@@ -1,2 +1,2 @@
-# pro-29
-this game is about bouncing the zombies
+# zombie-crush-1
+project solution for c29
